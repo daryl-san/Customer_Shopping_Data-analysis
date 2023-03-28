@@ -1,0 +1,6 @@
+questions to answer using customer_shopping_data and SQL
+
+1) how many invoice sales per shopping mall
+2) which gender is more often commits to a purchase in each mall location
+3) what's our most sold type of item
+4) total revenue per shopping mall
